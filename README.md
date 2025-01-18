@@ -2,7 +2,7 @@ This is the main code for the paper
 *************************************************************************************************
 Model-informed post-pandemic COVID-19 vaccination strategies by
 age and medical risk due to chronic diseases
-by Otilia Boldea, Ilse Westerhof, Eric Vos, Susan van den Hof, Jantien Backer and Ganna Rozhnova
+ - by Otilia Boldea, Ilse Westerhof, Eric Vos, Susan van den Hof, Jantien Backer and Ganna Rozhnova
 *************************************************************************************************
 For questions related to the code, please email o.boldea@tilburgunivesity.edu
 *************************************************************************************************
