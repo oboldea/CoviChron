@@ -25,8 +25,11 @@ Plot output from model fit
 Vaccination scenarios for the future
 **************************************************** 
 -scenarios_uniform.m       -> generates table and plot for burden for uniform vaccination coverage across age/risk
+
 -scenarios_risk.m          -> generates table and plot for burden for differential vaccination coverage by risk
+
 -scenarios_age.m           -> generates table and plot for burden for differential vaccination coverage by age
+
 -scenarios_age_risk.m      -> generates table and plot for burden for differential vaccination coverage by age/risk
  
 ****************************************************
